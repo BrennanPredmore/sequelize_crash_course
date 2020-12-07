@@ -1,0 +1,1 @@
+# sequelize_crash_course
